@@ -1,0 +1,19 @@
+{
+  "routes": {
+    "/imagegenerationengines/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks/Image-Generation-Engines"
+    },
+    "/why-you-should-own-yourname-com/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks/Your-Name"
+    },
+    "/removing-the-audio-jack-was-a-mistake/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks/Remove-Audio-Jack"
+    },
+    "/text-to-speech-and-podcast-ads/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks/Postcast-Ads"
+    },
+    "/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks.html"
+    }
+  }
+}
