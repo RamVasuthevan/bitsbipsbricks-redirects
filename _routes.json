@@ -1,0 +1,8 @@
+-0,0 +1,19 @@
+{
+  "routes": {
+    "/*": {
+      "destination": "https://ramvasuthevan.ca/bitsbipsbricks.html"
+    }
+  }
+}
